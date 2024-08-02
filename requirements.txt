@@ -10,3 +10,4 @@ wikipedia
 langchain-text-splitters
 sentence-transformers
 langchain_huggingface
+faiss-cpu
